@@ -21,6 +21,13 @@ function LoginPage() {
           <div className="column is-one-third" style={{ backdropFilter: 'blur(10px) brightness(90%)', backgroundColor: 'rgba(0, 0, 0, 0.5)', padding: '20px', borderRadius: '10px' }}>
             <form onSubmit={handleSubmit}>
               <div className="field">
+                <div className="control has-text-centered">
+                <figure className="image is-1by1">
+                  <img src="logo_transparent.png" alt="Logo" />
+                </figure>
+                </div>
+              </div>
+              <div className="field">
                 <label className="label">Username</label>
                 <div className="control">
                   <input className="input" type="text" value={username} onChange={e => setUsername(e.target.value)} />
@@ -34,7 +41,7 @@ function LoginPage() {
               </div>
               <div className="field">
                 <div className="control">
-                  <button className="button is-link" type="submit">Submit</button>
+                  <button className="button is-link" type="submit">Log In</button>
                 </div>
               </div>
             </form>

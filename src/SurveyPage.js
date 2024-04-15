@@ -1,15 +1,19 @@
 import React, { useState } from 'react';
 import 'bulma/css/bulma.min.css';
+import { useNavigate } from 'react-router-dom';
+
 
 function SurveyPage() {
   const [likes, setLikes] = useState('');
   const [dislikes, setDislikes] = useState('');
   const [avoid, setAvoid] = useState('');
+  const navigate = useNavigate();
 
   const handleSubmit = (event) => {
     event.preventDefault();
     // Handle form submission here
     console.log(`Likes: ${likes}, Dislikes: ${dislikes}, Avoid: ${avoid}`);
+    navigate('/code');
   };
 
   return (
