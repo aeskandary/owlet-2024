@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https//Michael-Remy23.github.io/static/css/main.1f8a49c7.css",
-    "main.js": "/https//Michael-Remy23.github.io/static/js/main.ddf8ce69.js",
-    "static/js/453.e69cd09a.chunk.js": "/https//Michael-Remy23.github.io/static/js/453.e69cd09a.chunk.js",
-    "static/media/rrrainbow.svg": "/https//Michael-Remy23.github.io/static/media/rrrainbow.e27e66950f1c716b10fb.svg",
-    "index.html": "/https//Michael-Remy23.github.io/index.html",
-    "main.1f8a49c7.css.map": "/https//Michael-Remy23.github.io/static/css/main.1f8a49c7.css.map",
-    "main.ddf8ce69.js.map": "/https//Michael-Remy23.github.io/static/js/main.ddf8ce69.js.map",
-    "453.e69cd09a.chunk.js.map": "/https//Michael-Remy23.github.io/static/js/453.e69cd09a.chunk.js.map"
+    "main.css": "/https//TasteBuds.github.io/static/css/main.60873f09.css",
+    "main.js": "/https//TasteBuds.github.io/static/js/main.d99a331d.js",
+    "static/js/453.e69cd09a.chunk.js": "/https//TasteBuds.github.io/static/js/453.e69cd09a.chunk.js",
+    "static/media/rrrainbow.svg": "/https//TasteBuds.github.io/static/media/rrrainbow.e27e66950f1c716b10fb.svg",
+    "index.html": "/https//TasteBuds.github.io/index.html",
+    "main.60873f09.css.map": "/https//TasteBuds.github.io/static/css/main.60873f09.css.map",
+    "main.d99a331d.js.map": "/https//TasteBuds.github.io/static/js/main.d99a331d.js.map",
+    "453.e69cd09a.chunk.js.map": "/https//TasteBuds.github.io/static/js/453.e69cd09a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f8a49c7.css",
-    "static/js/main.ddf8ce69.js"
+    "static/css/main.60873f09.css",
+    "static/js/main.d99a331d.js"
   ]
 }
