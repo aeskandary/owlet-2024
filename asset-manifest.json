@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https//TasteBuds.github.io/static/css/main.60873f09.css",
-    "main.js": "/https//TasteBuds.github.io/static/js/main.d99a331d.js",
-    "static/js/453.e69cd09a.chunk.js": "/https//TasteBuds.github.io/static/js/453.e69cd09a.chunk.js",
-    "static/media/rrrainbow.svg": "/https//TasteBuds.github.io/static/media/rrrainbow.e27e66950f1c716b10fb.svg",
-    "index.html": "/https//TasteBuds.github.io/index.html",
-    "main.60873f09.css.map": "/https//TasteBuds.github.io/static/css/main.60873f09.css.map",
-    "main.d99a331d.js.map": "/https//TasteBuds.github.io/static/js/main.d99a331d.js.map",
-    "453.e69cd09a.chunk.js.map": "/https//TasteBuds.github.io/static/js/453.e69cd09a.chunk.js.map"
+    "main.css": "/tastebuds/static/css/main.d1d51bb0.css",
+    "main.js": "/tastebuds/static/js/main.98308a44.js",
+    "static/js/453.e69cd09a.chunk.js": "/tastebuds/static/js/453.e69cd09a.chunk.js",
+    "static/media/rrrainbow.svg": "/tastebuds/static/media/rrrainbow.e27e66950f1c716b10fb.svg",
+    "index.html": "/tastebuds/index.html",
+    "main.d1d51bb0.css.map": "/tastebuds/static/css/main.d1d51bb0.css.map",
+    "main.98308a44.js.map": "/tastebuds/static/js/main.98308a44.js.map",
+    "453.e69cd09a.chunk.js.map": "/tastebuds/static/js/453.e69cd09a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60873f09.css",
-    "static/js/main.d99a331d.js"
+    "static/css/main.d1d51bb0.css",
+    "static/js/main.98308a44.js"
   ]
 }
