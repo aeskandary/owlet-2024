@@ -1,10 +1,10 @@
-import React from 'react';
-import './App.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import LoginPage from './LoginPage';
-import SurveyPage from './SurveyPage';
-import CodePage from './CodePage';
-import ResultsPage from './ResultsPage';
+import React from "react";
+import "./App.css";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import LoginPage from "./pages/LoginPage";
+import SurveyPage from "./pages/SurveyPage";
+import CodePage from "./pages/CodePage";
+import ResultsPage from "./pages/ResultsPage";
 
 function App() {
   return (
@@ -13,8 +13,8 @@ function App() {
         <Routes>
           <Route path="/" element={<LoginPage />} />
           <Route path="/survey" element={<SurveyPage />} />
-          <Route path="/code" element={<CodePage />} /> 
-          <Route path="/results" element={<ResultsPage />} /> 
+          <Route path="/code" element={<CodePage />} />
+          <Route path="/results" element={<ResultsPage />} />
         </Routes>
       </div>
     </Router>
