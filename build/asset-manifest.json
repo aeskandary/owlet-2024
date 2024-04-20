@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tastebuds/static/css/main.d1d51bb0.css",
-    "main.js": "/tastebuds/static/js/main.98308a44.js",
-    "static/js/453.e69cd09a.chunk.js": "/tastebuds/static/js/453.e69cd09a.chunk.js",
-    "static/media/rrrainbow.svg": "/tastebuds/static/media/rrrainbow.e27e66950f1c716b10fb.svg",
-    "index.html": "/tastebuds/index.html",
-    "main.d1d51bb0.css.map": "/tastebuds/static/css/main.d1d51bb0.css.map",
-    "main.98308a44.js.map": "/tastebuds/static/js/main.98308a44.js.map",
-    "453.e69cd09a.chunk.js.map": "/tastebuds/static/js/453.e69cd09a.chunk.js.map"
+    "main.css": "/owlet-2024/static/css/main.e6ff1e5f.css",
+    "main.js": "/owlet-2024/static/js/main.fa7dca07.js",
+    "static/js/453.e69cd09a.chunk.js": "/owlet-2024/static/js/453.e69cd09a.chunk.js",
+    "static/media/rrrainbow.svg": "/owlet-2024/static/media/rrrainbow.e27e66950f1c716b10fb.svg",
+    "index.html": "/owlet-2024/index.html",
+    "main.e6ff1e5f.css.map": "/owlet-2024/static/css/main.e6ff1e5f.css.map",
+    "main.fa7dca07.js.map": "/owlet-2024/static/js/main.fa7dca07.js.map",
+    "453.e69cd09a.chunk.js.map": "/owlet-2024/static/js/453.e69cd09a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1d51bb0.css",
-    "static/js/main.98308a44.js"
+    "static/css/main.e6ff1e5f.css",
+    "static/js/main.fa7dca07.js"
   ]
 }
