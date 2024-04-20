@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a374bb2.css",
-    "main.js": "/static/js/main.e7b7cb3b.js",
-    "static/js/453.e69cd09a.chunk.js": "/static/js/453.e69cd09a.chunk.js",
-    "static/media/rrrainbow.svg": "/static/media/rrrainbow.e27e66950f1c716b10fb.svg",
-    "index.html": "/index.html",
-    "main.9a374bb2.css.map": "/static/css/main.9a374bb2.css.map",
-    "main.e7b7cb3b.js.map": "/static/js/main.e7b7cb3b.js.map",
-    "453.e69cd09a.chunk.js.map": "/static/js/453.e69cd09a.chunk.js.map"
+    "main.css": "/owlet-2024/static/css/main.e6ff1e5f.css",
+    "main.js": "/owlet-2024/static/js/main.fa7dca07.js",
+    "static/js/453.e69cd09a.chunk.js": "/owlet-2024/static/js/453.e69cd09a.chunk.js",
+    "static/media/rrrainbow.svg": "/owlet-2024/static/media/rrrainbow.e27e66950f1c716b10fb.svg",
+    "index.html": "/owlet-2024/index.html",
+    "main.e6ff1e5f.css.map": "/owlet-2024/static/css/main.e6ff1e5f.css.map",
+    "main.fa7dca07.js.map": "/owlet-2024/static/js/main.fa7dca07.js.map",
+    "453.e69cd09a.chunk.js.map": "/owlet-2024/static/js/453.e69cd09a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a374bb2.css",
-    "static/js/main.e7b7cb3b.js"
+    "static/css/main.e6ff1e5f.css",
+    "static/js/main.fa7dca07.js"
   ]
 }
